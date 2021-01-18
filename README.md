@@ -1,16 +1,37 @@
-### Hi there 👋
-
-<!--
-**kunsaeedan01/kunsaeedan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html> 
+<html>
+	<head>
+	<meta charset = "UTF-8">
+	<title>Personal page</title>
+	</head>
+	    
+	<body>
+	
+	<h1>Rakhat Yerezhepov</h1>
+	<h3>Student of Software Engineering at <a href = "https://astanait.edu.kz/">AITU</a></h3>
+	<img src = "circle-cropped.png" width = "300px" height = "300px">
+	<h3>Personal data</h3>
+	<ul>
+		<li><strong>Date of birth:</strong> 05.12.2002</li>
+		<li><strong>Region:</strong>North Kazakhstan</li>
+		<li><strong>Study/Work:</strong><a href = "https://astanait.edu.kz/">Astana IT-University</a></li>
+		<li><strong>Course/Class:</strong>1</li>
+	</ul>
+	  <h3>Contact me : </h3>
+	<ol>
+		<li><strong>email : </strong>rakhat.erezhepov02@gmail.com</li>
+		<li><strong>mobile phone : </strong>87773009456</li>
+	</ol>
+	<h3>Social Media : </h3>
+	<ul>
+		<li><a href = "https://vk.com/id233806921">My VK page</a></li>
+		<li><a href = "https://www.instagram.com/yerezhepov.rakhat/">Me on Instagram</a></li>
+	</ul>
+	<h3>Hobbies : </h3>
+	<ul>
+		<li>Debate </li>
+		<li>Alternative Coffee Brewing</li>
+		<li>Anime</li>
+	</ul>
+	</body>
+</html>
